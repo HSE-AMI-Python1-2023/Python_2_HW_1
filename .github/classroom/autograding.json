@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "pytest",
+      "setup": "",
+      "run": "/opt/conda/bin/pytest -vs test_notebook.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
